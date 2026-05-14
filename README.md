@@ -76,6 +76,7 @@ The project includes an interactive web interface built with Streamlit where use
 
 👉 Try the deployed app here: 
 https://house-price-predictor-22.streamlit.app/
+
 ---
 
 📁 Project Structure
